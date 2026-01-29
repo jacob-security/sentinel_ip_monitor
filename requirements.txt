@@ -1,0 +1,2 @@
+# No external Python dependencies required.
+# Note: This project requires the 'jc' system utility (sudo apt install jc).
